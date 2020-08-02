@@ -1,2 +1,5 @@
 # Ignore any pyc files
 *.pyc
+
+#ignore temp files
+*.tmp
