@@ -7,6 +7,7 @@ class Node:
 class LinkedList:
     def __init__(self):
         print "Initializing the stack"
+        print "Added comment"
         self.head = None
 
     def push(self, new_data):
