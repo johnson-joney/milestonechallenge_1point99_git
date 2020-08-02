@@ -9,6 +9,7 @@ class LinkedList:
         print "Initializing the stack"
         print "Added comment"
         print "Comment 2"
+        print "Comment 3"
         self.head = None
 
     def push(self, new_data):
